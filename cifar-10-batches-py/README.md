@@ -1,1 +1,1 @@
-Contains the cifar 10 batches. CIFAR 10 is a dataset with 60k images divided equally among 10 object classes.
+Contains the cifar 10 batches. CIFAR 10 is a dataset with 60k images divided equally among 10 object classes. It is missing the batches files due to size limitations of github. Please access the drive link given in the main readme.
